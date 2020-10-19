@@ -127,6 +127,7 @@ body
 	box-shadow: 0 0 5px 5px #d7edf7;
 	height: 350px;
 	background-color: white;
+	padding-top: 20px;
 
 
 }
@@ -135,8 +136,8 @@ body
 	height:50px;
 	border-radius: 50%;
 	box-shadow: 0 0 3px 3px #d7edf7;
-	margin-top: 20px;
-	margin-left:37%;
+	margin:auto;
+	display: block;
 	
 	
 }
